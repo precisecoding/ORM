@@ -1,0 +1,32 @@
+[
+    {
+        "product_name": "Samsung",
+        "price": 10.50,
+        "stock": 100,
+        "category_id": 1
+    },
+    {
+        "product_name": "Hanes",
+        "price": 20.50,
+        "stock": 150,
+        "category_id": 2
+    },
+    {
+        "product_name": "Rolex",
+        "price": 1000.50,
+        "stock": 50,
+        "category_id": 3
+    },
+    {
+        "product_name": "Nike",
+        "price": 45.50,
+        "stock": 100,
+        "category_id": 4
+    },
+    {
+        "product_name": "Bull",
+        "price": 35.50,
+        "stock": 120,
+        "category_id": 5
+    }
+]
